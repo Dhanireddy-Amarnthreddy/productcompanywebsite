@@ -328,7 +328,14 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-
+![output](./homepage.Ink)
+### Product Page:
+![output](./productpage1.Ink)
+![output](./productpage2.Ink)
+### People Page:
+![output](./peoplepage.Ink)
+### Contact Us Page:
+![output](./contactuspage.Ink)
 
 ## Result:
 
