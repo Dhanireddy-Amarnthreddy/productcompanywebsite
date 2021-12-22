@@ -328,14 +328,14 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![output](./homepage.lnk)
+![output](./homepage.png)
 ### Product Page:
-![output](./productpage1.lnk)
-![output](./productpage2.lnk)
+![output](./productpage1.png)
+![output](./productpage2.png)
 ### People Page:
-![output](./peoplepage.lnk)
+![output](./peoplepage.png)
 ### Contact Us Page:
-![output](./contactuspage.lnk)
+![output](./contactuspage.png)
 
 ## Result:
 
